@@ -1,0 +1,1 @@
+# Node-Strict-mode
