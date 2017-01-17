@@ -1,7 +1,4 @@
 # Node-Strict-mode
 
-What is Node Strict Mode?
-
-Why use this?
-
-How the code looks?
+# Task runner - gulp
+* This is a npm module that helps automate painful workflow related tasks
