@@ -41,6 +41,12 @@
 * https://anna-marie-vos.github.io/minesweeper/
 * https://anna-marie-vos.github.io/js-calculator/
 * https://anna-marie-vos.github.io/artProject/
+
+### Phase 3
+* take5
+* login app
 * https://texas-mix-splitter.herokuapp.com/#/
 * https://korero-mai.herokuapp.com/#/
+
+### Agile project workflow
 
