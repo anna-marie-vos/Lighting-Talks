@@ -40,3 +40,5 @@
 * https://anna-marie-vos.github.io/
 * https://anna-marie-vos.github.io/minesweeper/
 * https://anna-marie-vos.github.io/js-calculator/
+* https://anna-marie-vos.github.io/artProject/
+
