@@ -34,3 +34,9 @@
 **
 ### Things to remember when writing true functional programming:
 *Functions should always be pure. It should not keep remnants of data in your functions, that means variables should be local scope only. (think fightclub) Everything IN the function should STAY in the function.
+
+## EDA Learnings
+### Phase 0
+* https://anna-marie-vos.github.io/
+* https://anna-marie-vos.github.io/minesweeper/
+* https://anna-marie-vos.github.io/js-calculator/
