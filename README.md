@@ -48,5 +48,8 @@
 * https://texas-mix-splitter.herokuapp.com/#/
 * https://korero-mai.herokuapp.com/#/
 
+### other
+* https://www.hackthissite.org/
+
 ### Agile project workflow
 
