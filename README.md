@@ -52,4 +52,11 @@
 * https://www.hackthissite.org/
 
 ### Agile project workflow
+* Standups
+* intro / outro in mornings and at the end of the day
+* synchronised clap
+* temperature checks
+* lighting talks / thundertalks
+* pair programming
+* agile project tracking (short sprints and check-in's)
 
